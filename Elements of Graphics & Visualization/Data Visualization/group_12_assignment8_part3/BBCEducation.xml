@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Family & Education]]></title>
+        <description><![CDATA[BBC News - Family & Education]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Family &amp; Education</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 18 Apr 2018</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Student loans interest rate to rise in line with inflation]]></title>
+            <description><![CDATA[Rates charged on student loans will go up from 6.1% to 6.3% from September.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43810163</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43810163</guid>
+            <pubDate>Wed, 18 Apr 2018 12:51:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5818/production/_100925522_gettyimages-600055244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's not just women who sometimes regret parenthood']]></title>
+            <description><![CDATA[One father believes his friends without children tend to be the happiest.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43703221</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43703221</guid>
+            <pubDate>Wed, 18 Apr 2018 09:16:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/152F3/production/_100917768_dadwithpram.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can you really revise while chatting online?]]></title>
+            <description><![CDATA[What should parents say to teenagers who seem to be playing on their computers more than revising for exams?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43784091</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43784091</guid>
+            <pubDate>Tue, 17 Apr 2018 23:05:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/58F1/production/_100896722_laptopstudent.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Governors quit free school where no pupils did GCSEs]]></title>
+            <description><![CDATA[An Ofsted inspection last year rated Route 39 Academy inadequate in all areas.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-devon-43810954</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-devon-43810954</guid>
+            <pubDate>Wed, 18 Apr 2018 13:53:21 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/13990/production/_100927208_route2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Primary school places - not got what you wanted?]]></title>
+            <description><![CDATA[If the school on offer is unsuitable for some reason, there are a number of things you can do.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43783681</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43783681</guid>
+            <pubDate>Mon, 16 Apr 2018 12:28:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3B37/production/_100895151_legspupilsgetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK makes £212m Commonwealth education aid pledge]]></title>
+            <description><![CDATA[Theresa May tells Commonwealth leaders children should spend at least 12 years in education.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-43791465</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-43791465</guid>
+            <pubDate>Tue, 17 Apr 2018 09:36:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B086/production/_100909154_mediaitem100909150.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore uncovers 'high-tech' exam cheating plot]]></title>
+            <description><![CDATA[The students snuck in mobile phones and wore skin-coloured earphones during their exams.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-pacific-43788617</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-pacific-43788617</guid>
+            <pubDate>Tue, 17 Apr 2018 06:46:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1814F/production/_100893689_e9605f04-eca9-4e38-b886-b80510649027.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[University staff suspend strikes over pensions]]></title>
+            <description><![CDATA[Planned changes to staff pensions led to 14 days of strike action at 64 universities in February and March.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43758015</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43758015</guid>
+            <pubDate>Fri, 13 Apr 2018 14:57:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14DCD/production/_100135458_mediaitem100135457.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Open University vice-chancellor Peter Horrocks resigns]]></title>
+            <description><![CDATA[Peter Horrocks says the university faces an "unprecedented" challenge as he announces his departure.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43755099</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43755099</guid>
+            <pubDate>Fri, 13 Apr 2018 13:12:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/19E0/production/_100842660_horrocksou.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firms relabelling low-skilled jobs as apprenticeships, says report]]></title>
+            <description><![CDATA[Study says 40% of apprenticeship standards do not meet traditional on-the-job training definition.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43739963</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43739963</guid>
+            <pubDate>Fri, 13 Apr 2018 08:39:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/35CC/production/_100827731_baristagetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School children quiz Nasa astronaut]]></title>
+            <description><![CDATA[Karen Nyberg, who's been to space twice, answers questions from primary school children.]]></description>
+            <link>http://www.bbc.co.uk/news/43788987</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/43788987</guid>
+            <pubDate>Tue, 17 Apr 2018 09:46:10 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/3FAC/production/_100900361_p064grxt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jacob says his school locked him away in a cupboard]]></title>
+            <description><![CDATA[Jacob recalls how he was repeatedly locked in a storage cupboard at school when he was five years old.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-43744189</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-43744189</guid>
+            <pubDate>Mon, 16 Apr 2018 00:17:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0C00/production/_100827030_p06432zv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child amputees get new sport prosthetics fund]]></title>
+            <description><![CDATA[A mother's campaign has led to government funding that gives hope to child amputees.]]></description>
+            <link>http://www.bbc.co.uk/news/disability-43719484</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/disability-43719484</guid>
+            <pubDate>Tue, 10 Apr 2018 23:43:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/362E/production/_100807831_pollyanna_hope_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Overcoming the odds to stay a mother]]></title>
+            <description><![CDATA[Girls meet their mothers behind bars and share intimate moments, thanks to a special programme.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43578463</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43578463</guid>
+            <pubDate>Tue, 10 Apr 2018 20:29:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/791B/production/_100630013_p062s27t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JK Rowling wants happy ending for orphans]]></title>
+            <description><![CDATA[The Harry Potter author is running an international campaign to stop children being isolated in poor-quality institutions.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43698073</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43698073</guid>
+            <pubDate>Tue, 10 Apr 2018 23:15:32 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/68AD/production/_100779762_043241063-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World's poor suffer for lack of glasses]]></title>
+            <description><![CDATA[Billions of people in poorer countries are being held back by a lack of affordable glasses.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43582189</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43582189</guid>
+            <pubDate>Tue, 03 Apr 2018 23:16:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/89DB/production/_100619253_sight5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The world's toughest place to study?]]></title>
+            <description><![CDATA[In the ruins of the siege of Eastern Ghouta in Syria there are still students refusing to give up learning.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43555596</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43555596</guid>
+            <pubDate>Wed, 28 Mar 2018 09:20:31 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1886/production/_100587260_045048285-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Linda Brown, centre of Brown v Board civil rights case, dies]]></title>
+            <description><![CDATA[Linda Brown was nine when she was denied entry to a white school, becoming the focus of a landmark case.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43550431</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43550431</guid>
+            <pubDate>Tue, 27 Mar 2018 00:14:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/03DB/production/_100578900_lindabrown2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teaching boys that 'real men' would stop rape]]></title>
+            <description><![CDATA[A project in Kenya is teaching boys how to intervene to stop sexual violence]]></description>
+            <link>http://www.bbc.co.uk/news/education-43466365</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43466365</guid>
+            <pubDate>Tue, 20 Mar 2018 23:11:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12A5A/production/_100487367_kenya2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Siblings in care]]></title>
+            <description><![CDATA[Thousands of siblings in care have been split up by councils in England and Wales, new figures suggest.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43795367</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43795367</guid>
+            <pubDate>Wed, 18 Apr 2018 00:06:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16423/production/_100917119_vicky1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['It's not a shock anymore']]></title>
+            <description><![CDATA[Teachers describe teaching in an area where knife crime is part of life.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43701660</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43701660</guid>
+            <pubDate>Thu, 12 Apr 2018 08:57:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11292/production/_100809207_gettyimages-878163916.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check]]></title>
+            <description><![CDATA[Youth services have seen big cuts in their budgets, but it's impossible to make a clear link.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43668167</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43668167</guid>
+            <pubDate>Fri, 06 Apr 2018 23:46:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/52D3/production/_100730212_pa-15934894.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Frozen meals]]></title>
+            <description><![CDATA[New research into how children and families will be affected by changes to free school meals has been published]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-43661817</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-43661817</guid>
+            <pubDate>Fri, 06 Apr 2018 09:41:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9C9B/production/_100719004_schoolmeals_reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Motherhood taboo]]></title>
+            <description><![CDATA[Three women describe what it is like to secretly wish they had never had children.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43555736</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43555736</guid>
+            <pubDate>Tue, 03 Apr 2018 08:13:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/101D1/production/_100610066_mum4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When the kids hear]]></title>
+            <description><![CDATA[It is normal for parents to argue, but the way rows affect children varies greatly.]]></description>
+            <link>http://www.bbc.co.uk/news/education-43486641</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43486641</guid>
+            <pubDate>Sun, 01 Apr 2018 23:51:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8360/production/_100523633_gettyimages-486417825.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lives in their hands]]></title>
+            <description><![CDATA[How do the families of generals who sent men into battle commemorate World War One?]]></description>
+            <link>http://www.bbc.co.uk/news/education-43558209</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-43558209</guid>
+            <pubDate>Fri, 30 Mar 2018 23:46:44 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/17C28/production/_100602379_fochastor1.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,15 @@
+response.xpath('//tr/td/a/text()').extract() # NPO name
+
+response.xpath('//tr/td/a/@href').extract() # link
+
+response.xpath('//b/text()[contains(.,"Address")]/../../following-sibling::td/text()[position()<3]').extract() # address
+
+response.xpath('//b/text()[contains(.,"Contact Person")]/../../following-sibling::td/text()').extract_first() # contact person
+
+response.xpath('//b/text()[contains(.,"Email")]/../../following-sibling::td/a[contains(@href,"mailto")]/text()').extract_first() # email
+
+response.xpath('//b/text()[contains(.,"Phone")]/../../following-sibling::td/text()').extract_first() # phone number
+
+response.xpath('//b/text()[contains(.,"Website")]/../../following-sibling::td/a[contains(@href,"http")]/@href').extract_first() # website
+
+response.xpath('//b/text()[contains(.,"Mission")]/../../following-sibling::td/text()').extract_first() # mission

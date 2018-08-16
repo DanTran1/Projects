@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Business]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Business</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 18 Apr 2018</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK inflation falls to lowest in a year]]></title>
+            <description><![CDATA[A slowdown in womenswear price rises during March sent UK consumer price inflation down to 2.5%.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43808716</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43808716</guid>
+            <pubDate>Wed, 18 Apr 2018 10:00:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1033A/production/_100926366_gettyimages-899207210_crop.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk: Just walk out of bad meetings]]></title>
+            <description><![CDATA[Tesla's chief advises staff to cut short phone calls and meetings as he aims to boost production.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43809674</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43809674</guid>
+            <pubDate>Wed, 18 Apr 2018 13:45:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/99AD/production/_100514393_gettyimages-464172224.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IMF issues warning on global debt]]></title>
+            <description><![CDATA[The IMF says governments should use the current strong economic growth to strengthen their finances.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43809872</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43809872</guid>
+            <pubDate>Wed, 18 Apr 2018 13:31:18 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/13CEC/production/_100923118_imf_afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bullring owner Hammerson pulls back from Intu takeover]]></title>
+            <description><![CDATA[Bullring shopping centre owner Hammerson tells shareholders it no longer wants to buy rival Intu.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43807491</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43807491</guid>
+            <pubDate>Wed, 18 Apr 2018 09:24:45 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8C2F/production/_99078853_traffordcentregetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[De La Rue abandons passport appeal]]></title>
+            <description><![CDATA[The firm gives up its efforts to challenge government decision over new UK passport manufacture.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43807190</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43807190</guid>
+            <pubDate>Wed, 18 Apr 2018 08:22:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D1D0/production/_100921735_passports.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More choose budget funerals, says Dignity]]></title>
+            <description><![CDATA[Dignity says more customers are opting for no-frills services but the rise has not undermined revenues.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43809672</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43809672</guid>
+            <pubDate>Wed, 18 Apr 2018 11:06:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/806C/production/_99667823_gettyimages-451637331.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Costa Coffee vows 'cup recycling revolution']]></title>
+            <description><![CDATA[The UK's biggest coffee chain says it will recycle as many disposable cups as it sells by 2020.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43801491</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43801491</guid>
+            <pubDate>Wed, 18 Apr 2018 08:03:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/158CB/production/_95776288_costawhitbread.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clydesdale Bank sets aside extra £350m for PPI claims]]></title>
+            <description><![CDATA[The bank says it is setting aside another £350m after reporting a higher than expected number of claims.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-scotland-business-43809078</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-scotland-business-43809078</guid>
+            <pubDate>Wed, 18 Apr 2018 12:44:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D200/production/_99806735_mediaitem99806734.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TalkSport take overseas cricket rights from BBC]]></title>
+            <description><![CDATA[The commercial broadcaster will cover England's upcoming tours of Sri Lanka and the West Indies.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-43807117</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-43807117</guid>
+            <pubDate>Wed, 18 Apr 2018 11:21:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F76E/production/_100924336_stoneman1_afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facebook seeks facial recognition consent in EU and Canada]]></title>
+            <description><![CDATA[Amid a privacy crisis, Facebook asks permission to expand use of facial recognition technology.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43797128</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43797128</guid>
+            <pubDate>Wed, 18 Apr 2018 04:56:04 GMT</pubDate>
+            <media:thumbnail width="1060" height="596" url="http://c.files.bbci.co.uk/C793/production/_100919015_mediaitem100919014.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China imposes anti-dumping deposits on US sorghum]]></title>
+            <description><![CDATA[US sorghum producers are looking at "all legal options" available to them in response to China's move.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43805549</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43805549</guid>
+            <pubDate>Wed, 18 Apr 2018 05:50:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9224/production/_100921473_sorghumbeinggrownintexasus.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starbucks to shut over 8,000 US cafes for race training]]></title>
+            <description><![CDATA[The coffee store chain will close all its branches in the US for "racial bias" education.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43803756</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43803756</guid>
+            <pubDate>Wed, 18 Apr 2018 08:41:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BEE7/production/_100917884_gettyimages-946602052.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lloyds Banking Group to close 49 branches]]></title>
+            <description><![CDATA[About 1,200 jobs are affected by the closures, but the bank says staff will be redeployed where possible.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43802021</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43802021</guid>
+            <pubDate>Tue, 17 Apr 2018 19:59:21 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/158C5/production/_100916288_lloyds.sign.clouds.g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wish.com: Penis advert appeared in video game apps]]></title>
+            <description><![CDATA[US retailer Wish.com is admonished by UK ad watchdog for the third time since November.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43804495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43804495</guid>
+            <pubDate>Tue, 17 Apr 2018 23:02:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2E73/production/_100919811_mediaitem100919810.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Trudeau wants 'seamless' UK trade deal after Brexit]]></title>
+            <description><![CDATA[Canadian Prime Minister Justin Trudeau wants a deal that will "flip over the day after Brexit".]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43810913</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43810913</guid>
+            <pubDate>Wed, 18 Apr 2018 11:53:46 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5A8E/production/_100928132_p064nn29_e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin peaks and falls become race tracks]]></title>
+            <description><![CDATA[The rapidly changing value of crypto-currency has been turned into a mobile game.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43796597</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43796597</guid>
+            <pubDate>Wed, 18 Apr 2018 09:37:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F3EA/production/_100924426_p064nddx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Renting is cheaper' as house prices 'too ridiculous']]></title>
+            <description><![CDATA[Leah Wilson, who is in her early 20s, says she struggles to save for a house.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43794936</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43794936</guid>
+            <pubDate>Tue, 17 Apr 2018 08:05:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3D9A/production/_100907751_p064k0qw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Going for a helicopter pub crawl in Australia]]></title>
+            <description><![CDATA[Tourism operators are offering a novel way to find a beer in Australia's vast outback.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43786095</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43786095</guid>
+            <pubDate>Mon, 16 Apr 2018 23:03:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12B06/production/_100905567_p064jp4t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starbucks apologises after Philadelphia arrests]]></title>
+            <description><![CDATA[The coffee chain apologises to two black men arrested when a manager refused to let them use a toilet.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43789349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43789349</guid>
+            <pubDate>Mon, 16 Apr 2018 21:19:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/597D/production/_100790922_p064j0wy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Wetherspoon has quit social media]]></title>
+            <description><![CDATA[Pub chain Wetherspoon has quit social media, so what difference will it make to its business?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43789998</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43789998</guid>
+            <pubDate>Mon, 16 Apr 2018 16:41:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B391/production/_100896954_p064h5gq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What does your perfume say about you?]]></title>
+            <description><![CDATA[You can tell a lot about someone by the perfume they wear, says perfumer Roja Dove.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43728088</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43728088</guid>
+            <pubDate>Sun, 15 Apr 2018 23:24:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C642/production/_100845705_p0647f2p.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The BMW that really does drive itself]]></title>
+            <description><![CDATA[BMW unveils the prototype of a "level 5" autonomous car, which can drive itself on public roads without human intervention. The BBC's Victoria Fritz takes it for a spin.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43756701</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43756701</guid>
+            <pubDate>Fri, 13 Apr 2018 20:55:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8D80/production/_100842263_p0646l2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Distraction tactics]]></title>
+            <description><![CDATA[What should parents say to teenagers who seem to be playing on their computers more than revising for exams?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43784091</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43784091</guid>
+            <pubDate>Tue, 17 Apr 2018 23:05:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/58F1/production/_100896722_laptopstudent.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ninjas and nanobots]]></title>
+            <description><![CDATA[Is the fusion of biology and technology speeding us towards a synthetic future?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43781851</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43781851</guid>
+            <pubDate>Mon, 16 Apr 2018 23:33:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CE99/production/_100898825_gettyimages-864465280.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tentative steps]]></title>
+            <description><![CDATA[The fitness tracking firm, co-founded by James Park, has been struggling in a more competitive market.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43632634</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43632634</guid>
+            <pubDate>Sun, 15 Apr 2018 23:20:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5BB6/production/_100687432_jamespark1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Braking news]]></title>
+            <description><![CDATA[Automatic braking systems could save 1,000 lives on the UK's roads over the next decade.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43752226</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43752226</guid>
+            <pubDate>Sat, 14 Apr 2018 23:50:15 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6A39/production/_100839172_p1080015.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coffee trends]]></title>
+            <description><![CDATA[Coffee in five charts: How coffee drinking varies around the world.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43742686</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43742686</guid>
+            <pubDate>Fri, 13 Apr 2018 20:48:59 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/DB08/production/_100827065_gettyimages-635793190.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bug hunters]]></title>
+            <description><![CDATA[Big rewards are available for hackers who can spot when websites have got their coding wrong.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43581624</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43581624</guid>
+            <pubDate>Thu, 12 Apr 2018 23:00:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/516A/production/_100824802_mediaitem100824237.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roadblock ahead?]]></title>
+            <description><![CDATA[A good Brexit deal will be vital to the continuing health of the UK car industry say observers.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43627343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43627343</guid>
+            <pubDate>Wed, 11 Apr 2018 23:04:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9611/production/_100671483_portburyshipsandcarsretouch-medium-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Safe home]]></title>
+            <description><![CDATA[The Harry Potter author is running an international campaign to stop children being isolated in poor-quality institutions.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43698073</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43698073</guid>
+            <pubDate>Tue, 10 Apr 2018 23:15:32 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/68AD/production/_100779762_043241063-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['600 apps had my data']]></title>
+            <description><![CDATA[Data harvesting is a multi-billion dollar industry privacy campaigners believe is far too opaque.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43697133</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43697133</guid>
+            <pubDate>Mon, 09 Apr 2018 23:05:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15212/production/_100764568_frederike-kaltheuner_alena-schmick-photography_01_1286.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smoothie operator]]></title>
+            <description><![CDATA[Richard Reed, one of the co-founders of smoothie firm Innocent, looks back on the company's meteoric growth.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43542605</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43542605</guid>
+            <pubDate>Sun, 08 Apr 2018 23:00:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8B0C/production/_100569553_juice1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gender pay gap]]></title>
+            <description><![CDATA[For the first time, the extent of pay differences between men and women in the UK has been exposed.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43668187</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43668187</guid>
+            <pubDate>Sat, 07 Apr 2018 21:26:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0B40/production/_100108820_gettyimages-493796328.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cleaning up]]></title>
+            <description><![CDATA[Tips for the new financial year including selling clutter and finding out how much your pension is worth.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43661190</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43661190</guid>
+            <pubDate>Fri, 06 Apr 2018 21:24:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BF07/production/_100730984_cleaning_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holding out]]></title>
+            <description><![CDATA[Older Swedes fear being left behind as businesses move away from cashless transactions.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43645676</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43645676</guid>
+            <pubDate>Fri, 06 Apr 2018 11:03:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15252/production/_100701668_gettyimages-865617174.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flying whales]]></title>
+            <description><![CDATA[Airbus's huge new super-transporter plane can carry two passenger jet wings instead of one.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43641665</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43641665</guid>
+            <pubDate>Fri, 06 Apr 2018 11:14:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E7D7/production/_100715395_structurally_complete_airbus_belugaxl_no1_5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What next for Trump trade?]]></title>
+            <description><![CDATA[Some believe the president's confrontational approach could reverse decades of trade liberalisation.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43635623</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43635623</guid>
+            <pubDate>Wed, 04 Apr 2018 23:08:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/183B1/production/_100694299_gettyimages-929367038-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Better or worse off?]]></title>
+            <description><![CDATA[The start of April sees changes in personal allowances, the minimum wage, council tax and pension contributions.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43582249</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43582249</guid>
+            <pubDate>Sat, 31 Mar 2018 00:20:32 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/13F30/production/_100621718_gettyimages-646183158.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Working too hard? ]]></title>
+            <description><![CDATA[Most of us like to be a diligent worker, but what if you are actually addicted to your job?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43485981</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43485981</guid>
+            <pubDate>Tue, 03 Apr 2018 23:14:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/904E/production/_100524963_gettyimages-485841736.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Specs appeal]]></title>
+            <description><![CDATA[Billions of people in poorer countries are being held back by a lack of affordable glasses.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43582189</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43582189</guid>
+            <pubDate>Tue, 03 Apr 2018 23:16:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/89DB/production/_100619253_sight5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retail warning]]></title>
+            <description><![CDATA[The Federation of Small Businesses warns its members could struggle due to a rise in business rates.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43632000</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43632000</guid>
+            <pubDate>Tue, 03 Apr 2018 16:30:35 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1F0C/production/_100684970_gettyimages-649049774.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Giants of the seas]]></title>
+            <description><![CDATA[Wind power capacity is growing thanks to giant offshore turbines, but can they get much bigger?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43576226</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43576226</guid>
+            <pubDate>Mon, 02 Apr 2018 23:08:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12F22/production/_100620677_gettyimages-71506606.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shake it up]]></title>
+            <description><![CDATA[A new breed of adult-focused soft drinks is providing alternatives to traditional alcoholic tipples.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43582360</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43582360</guid>
+            <pubDate>Sun, 01 Apr 2018 00:30:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/18602/production/_100624899_cocktails_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where on earth...?]]></title>
+            <description><![CDATA[Many countries still have no functioning address system. Is digital mapping the answer?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43544007</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43544007</guid>
+            <pubDate>Fri, 30 Mar 2018 00:07:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/258C/production/_100621690_gettyimages-87546990.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dedicated students]]></title>
+            <description><![CDATA[In the ruins of the siege of Eastern Ghouta in Syria there are still students refusing to give up learning.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43555596</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43555596</guid>
+            <pubDate>Wed, 28 Mar 2018 09:20:31 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1886/production/_100587260_045048285-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the British drink]]></title>
+            <description><![CDATA[Across Great Britain, adults are drinking less often. So how are tastes changing and why are they cutting back?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43492043</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43492043</guid>
+            <pubDate>Tue, 27 Mar 2018 00:56:25 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/28D4/production/_100525401_gettyimages-475705672-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pea pushers ]]></title>
+            <description><![CDATA[Advertisers are the experts at persuading us to eat burgers, crisps and fizzy drinks. But what if they tried to sell us something healthier?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43535742</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43535742</guid>
+            <pubDate>Tue, 27 Mar 2018 22:56:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A04E/production/_100583014_popeye2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Artpreneurs' are go!]]></title>
+            <description><![CDATA[Artists selling their works direct online are giving galleries and auction houses food for thought.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43499698</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43499698</guid>
+            <pubDate>Mon, 26 Mar 2018 23:02:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7E82/production/_100568323__f5a4042-edit.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not a shaggy dog story]]></title>
+            <description><![CDATA[When Henrietta Morrison's border terrier refused to eat its normal food, she was inspired to set up pet food brand Lily's Kitchen.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43459149</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43459149</guid>
+            <pubDate>Sun, 25 Mar 2018 23:18:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F7A1/production/_100539336_mediaitem100485179.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 17 Apr 2018 </lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Starbucks to shut over 8,000 US cafes for race training]]></title>
+            <description><![CDATA[The coffee store chain will close all its branches in the US for "racial bias" education.]]></description>
+            <link>http://www.bbc.co.uk/news/business-43803756</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43803756</guid>
+            <pubDate>Tue, 17 Apr 2018 21:17:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BEE7/production/_100917884_gettyimages-946602052.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Southwest Airlines jet engine 'explosion' leaves one dead]]></title>
+            <description><![CDATA[A woman was reportedly "partially sucked out" of a window after it was smashed by engine debris.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43803340</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43803340</guid>
+            <pubDate>Tue, 17 Apr 2018 22:35:24 GMT</pubDate>
+            <media:thumbnail width="498" height="280" url="http://c.files.bbci.co.uk/C473/production/_100919205_caerthertyrasdff34ypture.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump says US officials talking to N Korea ahead of Kim summit]]></title>
+            <description><![CDATA[He says talks have been held at "extremely high levels" to set up his summit with Kim Jong-un.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-43792658</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-43792658</guid>
+            <pubDate>Tue, 17 Apr 2018 22:11:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15177/production/_100919368_mediaitem100919367.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sandy Hook parents sue radio host Alex Jones for defamation]]></title>
+            <description><![CDATA[The parents, whose children were killed in the 2012 school attack, sue Alex Jones for damages.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43799449</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43799449</guid>
+            <pubDate>Tue, 17 Apr 2018 17:46:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A0C9/production/_100916114_gettyimages-170028319.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stormy Daniels unveils sketch of man who 'threatened' her]]></title>
+            <description><![CDATA[The adult film star's lawyer offers $100,000 for information on a man who allegedly threatened her.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43800614</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43800614</guid>
+            <pubDate>Tue, 17 Apr 2018 20:24:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1293B/production/_100919067_mediaitem100915483.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cryptocurrency billionaire dies at 54]]></title>
+            <description><![CDATA[Matthew Mellon, the scion of two US banking dynasties, passed away in a rehab centre in Mexico.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43800610</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43800610</guid>
+            <pubDate>Tue, 17 Apr 2018 16:08:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4813/production/_100915481_mediaitem100914955.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan minister apologises over escaped prisoner]]></title>
+            <description><![CDATA[The convicted thief is believed to have stolen items ranging from socks to a car since his escape.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-43801011</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-43801011</guid>
+            <pubDate>Tue, 17 Apr 2018 16:30:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6497/production/_100915752_2928e89c-c402-49da-89ce-a5092a0dcc3a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France's Macron urges EU to shun nationalism]]></title>
+            <description><![CDATA[France's leader warns of a "civil war" of ideas after recent electoral gains for populists.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43794856</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43794856</guid>
+            <pubDate>Tue, 17 Apr 2018 14:20:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/47FF/production/_100913481_mediaitem100913478.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria 'chemical attack': OPCW investigators to be allowed into Douma]]></title>
+            <description><![CDATA[Experts are to be allowed access to the site of an alleged chemical attack in Syria on 7 April.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43792120</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43792120</guid>
+            <pubDate>Tue, 17 Apr 2018 19:46:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D93B/production/_100911655_mediaitem100911651.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jérôme Hamon: Frenchman gets 'third face' in new transplant]]></title>
+            <description><![CDATA[Jérôme Hamon is the first patient to have two facial transplants and says he is doing well.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43794916</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43794916</guid>
+            <pubDate>Tue, 17 Apr 2018 10:33:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2DFA/production/_100907711_3f2a5719-ebb0-42ed-b16b-cff21d85257e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh kidnapping by dissident rebel group rocks Ecuador]]></title>
+            <description><![CDATA[News of a fresh kidnapping days after three journalists were confirmed killed has shocked Ecuador.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-43798693</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-43798693</guid>
+            <pubDate>Tue, 17 Apr 2018 21:28:10 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/DD41/production/_100914665_mediaitem100912061.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armenia parliament swears in new PM despite protests]]></title>
+            <description><![CDATA[A "popular, non-violent, velvet revolution" is under way, according to the protests' chief organiser.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43794910</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43794910</guid>
+            <pubDate>Tue, 17 Apr 2018 13:50:10 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/11E4A/production/_100909237_046232621.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Hey Starbucks, is it my skin colour?']]></title>
+            <description><![CDATA[A black customer denied access to a store toilet films a white customer who was given the code.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43803310</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43803310</guid>
+            <pubDate>Tue, 17 Apr 2018 16:53:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A79D/production/_100790924_p064ll99.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch US tornado rip roof from house]]></title>
+            <description><![CDATA[Tornadoes in the southern US have killed one and wreaked havoc across several states.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43803291</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43803291</guid>
+            <pubDate>Tue, 17 Apr 2018 20:34:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/155C3/production/_100919478_p064mc40.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside Douma: Where 'chemical weapons' hit]]></title>
+            <description><![CDATA[A journey into the recently recaptured city reveals humanitarian suffering and a bomb-making factory.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43796356</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43796356</guid>
+            <pubDate>Tue, 17 Apr 2018 10:55:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12D18/production/_100908077_p064kdfs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panic as jet engine rips apart midair]]></title>
+            <description><![CDATA[A Southwest Airlines plane made an emergency landing in Philadelphia one of its engines disintegrated.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43803290</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43803290</guid>
+            <pubDate>Tue, 17 Apr 2018 19:43:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10D75/production/_100918986_p064m6m1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bialowieza forest: Poland broke EU law by logging]]></title>
+            <description><![CDATA[Large-scale logging in Bialowieza forest violated EU law, the European Court of Justice rules.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43802612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43802612</guid>
+            <pubDate>Tue, 17 Apr 2018 16:16:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/843B/production/_100915833_p064ldrs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stormy Daniels: 'That's between Trump and his family']]></title>
+            <description><![CDATA[Adult film actress Stormy Daniels appears on daytime television to talk about President Donald Trump.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43803293</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43803293</guid>
+            <pubDate>Tue, 17 Apr 2018 21:00:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/212B/production/_100919480_p064mf1z.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kids ask Nasa astronaut about going to space]]></title>
+            <description><![CDATA[Karen Nyberg, who's been to space twice, answers questions from primary school children.]]></description>
+            <link>http://www.bbc.co.uk/news/43788987</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/43788987</guid>
+            <pubDate>Tue, 17 Apr 2018 09:46:10 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/3FAC/production/_100900361_p064grxt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Choi Eun-hee: South Korean actress who was kidnapped by North dies]]></title>
+            <description><![CDATA[She was kidnapped under the orders of then leader Kim Jong-il before escaping years later.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-43792417</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-43792417</guid>
+            <pubDate>Tue, 17 Apr 2018 14:29:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3E4E/production/_100905951_hi046238083.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Performing bear at Russian match is 'inhumane' - animal welfare groups]]></title>
+            <description><![CDATA[Footage of a bear performing in front of fans before a Russian league match is condemned as "shocking and inhumane" by animal welfare groups.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/43783325</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/43783325</guid>
+            <pubDate>Mon, 16 Apr 2018 16:10:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D034/production/_100900335_bear.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Book lifts lid on Finland's £475,000 armoured car]]></title>
+            <description><![CDATA[A book by a Finnish official claims that civil servants spent nearly half a million pounds on an armoured limousine that proved impractical to use.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43795036</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43795036</guid>
+            <pubDate>Tue, 17 Apr 2018 10:00:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6E78/production/_100908282_gettyimages-632561982.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Egyptians gear up for Ramadan with Mo Salah lanterns]]></title>
+            <description><![CDATA[Egyptians gear up for Ramadan with Mo Salah lanterns.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43761682</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43761682</guid>
+            <pubDate>Fri, 13 Apr 2018 20:46:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17628/production/_100848759_mosalah.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Iceland to play its first cricket international]]></title>
+            <description><![CDATA[National team to come to England for a double-header against Switzerland.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43741065</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-43741065</guid>
+            <pubDate>Thu, 12 Apr 2018 11:39:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1432C/production/_100823728_0000.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Sellers: The nurse who was runner-up in Boston marathon]]></title>
+            <description><![CDATA[Sarah Sellers, a full-time nurse, shocks America by winning $75,000 second place prize.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43794846</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43794846</guid>
+            <pubDate>Tue, 17 Apr 2018 13:42:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/54B0/production/_100908612_gettyimages-947083264.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tax cuts: Are they the biggest in American history?]]></title>
+            <description><![CDATA[On Tax Day, Reality Check examines Donald Trump's claim that the most recently passed US tax bill represents the "biggest tax cut" in American history.]]></description>
+            <link>http://www.bbc.co.uk/news/world-43790895</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-43790895</guid>
+            <pubDate>Tue, 17 Apr 2018 13:35:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7531/production/_100910003_gettyimages-947024926.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diamond Platnumz is in trouble for a kiss]]></title>
+            <description><![CDATA[One of Africa's top musicians is being questioned by Tanzanian police for a video of him kissing a woman.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43798823</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43798823</guid>
+            <pubDate>Tue, 17 Apr 2018 17:51:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1699B/production/_100917529_bbc_diamond.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia: Why is going to the cinema suddenly OK?]]></title>
+            <description><![CDATA[Saudi Arabia's decision to open its first cinema for 35 years hints at wider changes taking place.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-43738718</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-43738718</guid>
+            <pubDate>Mon, 16 Apr 2018 23:31:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1496/production/_100907250_mediaitem100707982.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exorcism: Vatican course opens doors to 250 priests]]></title>
+            <description><![CDATA[The week-long session teaches priests how to deal with "demonic possession".]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43697573</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43697573</guid>
+            <pubDate>Mon, 16 Apr 2018 23:20:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1474B/production/_100778738_gettyimages-112164257.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Malaria killed my daughter, I'm protecting others now']]></title>
+            <description><![CDATA[Senegal is on track to be declared malaria-free by 2030.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43781232</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43781232</guid>
+            <pubDate>Mon, 16 Apr 2018 23:13:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/529D/production/_100894112_duval9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria: Does Russia always use a veto at the UN Security Council?]]></title>
+            <description><![CDATA[Russia has been criticised for vetoing UN resolutions related to Syria.]]></description>
+            <link>http://www.bbc.co.uk/news/world-43781954</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-43781954</guid>
+            <pubDate>Mon, 16 Apr 2018 15:33:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AAE5/production/_100894734_gettyimages-946241028.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Things you might not know about the Commonwealth]]></title>
+            <description><![CDATA[As Commonwealth leaders meet in London, the BBC takes a look at the facts and figures behind this club of nations.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43715079</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43715079</guid>
+            <pubDate>Sun, 15 Apr 2018 23:56:38 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/117E0/production/_100784617_queen_duke_tuvalu1982_pa.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Health]]></title>
+        <description><![CDATA[BBC News - Health]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Health</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 18 Apr 2018</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Migraine: New drug works when others fail, researchers say]]></title>
+            <description><![CDATA[The monthly injection could be approved for NHS use by next year, experts hope.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43781227</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43781227</guid>
+            <pubDate>Tue, 17 Apr 2018 21:12:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13647/production/_100913497_m3820826-headache-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alfie Dingley's family apply for licence for medical cannabis]]></title>
+            <description><![CDATA[Alfie Dingley's family want him to use cannabis oil, which is illegal in the UK, to treat his epilepsy.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43812735</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43812735</guid>
+            <pubDate>Wed, 18 Apr 2018 13:52:27 GMT</pubDate>
+            <media:thumbnail width="660" height="371" url="http://c.files.bbci.co.uk/DC6C/production/_100482465_aae4801a-b733-42e2-8c38-e80f2038f77d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Malaria experts fear disease's resurgence]]></title>
+            <description><![CDATA[For the first time in 10 years, global malaria cases are no longer falling, and experts are worried.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43786343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43786343</guid>
+            <pubDate>Wed, 18 Apr 2018 08:02:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2DB4/production/_100900711_z3410293-anopheles_mosquito-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alfie Evans: Father begs Pope Francis to 'save our son']]></title>
+            <description><![CDATA[Tom Evans is asking the Pope to intervene in the legal battle about ending his son's life support.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-merseyside-43807453</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-merseyside-43807453</guid>
+            <pubDate>Wed, 18 Apr 2018 14:49:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B902/production/_100926374_tomevanspope_e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS ransomware attack response criticised]]></title>
+            <description><![CDATA[MPs say it is "alarming" plans to improve cyber-security after the Wannacry attack have not been agreed.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43795001</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43795001</guid>
+            <pubDate>Tue, 17 Apr 2018 22:53:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B443/production/_98474164_gettyimages-682949092.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's highest paid doctors mainly men]]></title>
+            <description><![CDATA[BBC research finds just 15 out of 100 of the highest paid senior doctors in Scotland are women.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-43669763</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-43669763</guid>
+            <pubDate>Wed, 18 Apr 2018 09:30:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16757/production/_100919919_gettyimages-97768217.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jérôme Hamon: Frenchman gets 'third face' in new transplant]]></title>
+            <description><![CDATA[Jérôme Hamon is the first patient to have two facial transplants and says he is doing well.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43794916</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43794916</guid>
+            <pubDate>Tue, 17 Apr 2018 10:33:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2DFA/production/_100907711_3f2a5719-ebb0-42ed-b16b-cff21d85257e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russells Hall Hospital: Patient treated after 'inspectors intervene']]></title>
+            <description><![CDATA[Health inspectors on a visit to Russells Hall Hospital in Dudley had to intervene "as a matter of urgency".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-43806860</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-43806860</guid>
+            <pubDate>Wed, 18 Apr 2018 08:13:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F246/production/_100922026_de54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vaginal mesh surgery: NHS releases new figures]]></title>
+            <description><![CDATA[England's most senior doctor is told to urgently respond to new data on vaginal mesh surgeries.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43795003</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43795003</guid>
+            <pubDate>Tue, 17 Apr 2018 14:31:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1841B/production/_98355399_mesh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does vaginal seeding boost health?]]></title>
+            <description><![CDATA[Does vaginal seeding expose babies to good bacteria or is it too dangerous?]]></description>
+            <link>http://www.bbc.co.uk/news/health-43785523</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43785523</guid>
+            <pubDate>Tue, 17 Apr 2018 00:03:12 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/2ECB/production/_100897911_howyou&apos;reborn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS apologises to family over mother's hospital death]]></title>
+            <description><![CDATA[The family of mother-of-two Denise Davies agrees a settlement after her death in hospital in 2013.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-suffolk-43797757</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-suffolk-43797757</guid>
+            <pubDate>Tue, 17 Apr 2018 12:59:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CC61/production/_100912325_denisedavies2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[European women twice as likely to be blonde as men, study says]]></title>
+            <description><![CDATA[Women from European descent are twice as likely to be naturally blonde as men, a new study suggests.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43782751</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43782751</guid>
+            <pubDate>Mon, 16 Apr 2018 15:03:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/88AD/production/_100898943_blondehair_gettyimages-505936848.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['More than medication' needed to treat ADHD]]></title>
+            <description><![CDATA[Many families of children with ADHD are offered no training to help them manage their child's condition.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-43781070</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-43781070</guid>
+            <pubDate>Mon, 16 Apr 2018 23:13:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10306/production/_100901366_mediaitem100901365.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doctor due to qualify as GP 'saved from deportation']]></title>
+            <description><![CDATA[Dr Luke Ong is five months from qualifying as a GP but missed an immigration deadline by 18 days.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-43782463</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-43782463</guid>
+            <pubDate>Mon, 16 Apr 2018 10:21:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E2D2/production/_100766085_dr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First double face transplant patient 'well' in France]]></title>
+            <description><![CDATA[The first person in the world to receive two facial transplants is recovering in a Paris hospital.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-43794923</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-43794923</guid>
+            <pubDate>Tue, 17 Apr 2018 12:12:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0F0B/production/_100915830_mediaitem100915829.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reece's top tips for living with ADHD]]></title>
+            <description><![CDATA[Reece Sinclair was diagnosed with ADHD when he was seven years old.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-43783584</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-43783584</guid>
+            <pubDate>Mon, 16 Apr 2018 23:10:49 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17F0B/production/_100895089_p064gxky.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A solution to one of America’s biggest problems]]></title>
+            <description><![CDATA[Who will care for the soaring number of elderly Americans? One place has found a creative answer.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-43730216</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-43730216</guid>
+            <pubDate>Sun, 15 Apr 2018 23:31:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12A6A/production/_100849367_p06481yg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I lost seven stone to save my liver']]></title>
+            <description><![CDATA[Frances Carroll needed sticks to walk any distance when she was a size 22. Now she's a fitness instructor.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43759753</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43759753</guid>
+            <pubDate>Fri, 13 Apr 2018 17:08:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BFB2/production/_100847094_frances_beforeafter.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Going through the menopause at 11 years old]]></title>
+            <description><![CDATA[Amanda was 11 years old when she started experiencing symptoms of early menopause.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43705088</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43705088</guid>
+            <pubDate>Thu, 12 Apr 2018 23:26:09 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6353/production/_100772452_p063sl18.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman hopeful for better life after leg amputation]]></title>
+            <description><![CDATA[Jess Laughton has faced a long battle to have her left leg removed - something she wanted because of her chronic pain.]]></description>
+            <link>http://www.bbc.co.uk/news/newsbeat-43738051</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/newsbeat-43738051</guid>
+            <pubDate>Fri, 13 Apr 2018 04:20:59 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/18062/production/_100820489_p0643lb5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hellblade's psychosis theme noted at awards ]]></title>
+            <description><![CDATA[A total of 45 games were nominated at Thursday night's Bafta Games Awards in London.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-43748494</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-43748494</guid>
+            <pubDate>Fri, 13 Apr 2018 01:45:27 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1175F/production/_100891517_p064575g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anti-abortion campaigner: 'We will continue to hold vigils']]></title>
+            <description><![CDATA[One campaigner says a 100m "buffer zone" at a London abortion clinic will not be a deterrent.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-43733691</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-43733691</guid>
+            <pubDate>Wed, 11 Apr 2018 20:21:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A06/production/_100820186_anti_abortion_campaigner_bb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman's missing jaw regrown by 9cm after cancer]]></title>
+            <description><![CDATA[Val's jaw has been reconstructed by "stretching" her own tissue and bone around a frame.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-nottinghamshire-43722744</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-nottinghamshire-43722744</guid>
+            <pubDate>Wed, 11 Apr 2018 07:12:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/ADA1/production/_100794444_bf19e14f-a8da-46f7-a0d3-066a0e27814e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fish tank fumes land 10 in hospital]]></title>
+            <description><![CDATA[The "potentially toxic" fumes were released by coral being cleared from a domestic aquarium.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-oxfordshire-43558736</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-oxfordshire-43558736</guid>
+            <pubDate>Tue, 27 Mar 2018 17:03:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1575A/production/_100589878_tank2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sugar tax: Will paying more for fizzy drinks and alcohol make us healthier?]]></title>
+            <description><![CDATA[The price of some unhealthy drinks is about to go up - in the hope that we will make "better" choices.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43414777</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43414777</guid>
+            <pubDate>Thu, 05 Apr 2018 00:35:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AA0B/production/_100713534_cola.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's Gorakhpur hospital: The night the children died]]></title>
+            <description><![CDATA[Did lack of oxygen really cause the deaths of 30 children in one night at an Indian hospital?]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-43482471</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-43482471</guid>
+            <pubDate>Sun, 01 Apr 2018 00:38:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/90FD/production/_100571173_gettyimages-831199188.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Malaria killed my daughter, I'm protecting others now']]></title>
+            <description><![CDATA[Senegal is on track to be declared malaria-free by 2030.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-43781232</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-43781232</guid>
+            <pubDate>Mon, 16 Apr 2018 23:13:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/529D/production/_100894112_duval9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breastfeeding: Abergavenny mums share nursing images online]]></title>
+            <description><![CDATA[The images are intended to start conversations about the difficulties nursing mothers can face.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-43743689</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-43743689</guid>
+            <pubDate>Mon, 16 Apr 2018 00:34:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18532/production/_100843699_hannah.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How 'ninja polymers' are fighting killer superbugs]]></title>
+            <description><![CDATA[Is the fusion of biology and technology speeding us towards a synthetic future?]]></description>
+            <link>http://www.bbc.co.uk/news/business-43781851</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-43781851</guid>
+            <pubDate>Mon, 16 Apr 2018 23:33:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CE99/production/_100898825_gettyimages-864465280.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Good bacteria: Why I put my poo in the post]]></title>
+            <description><![CDATA[How analysing faeces could unlock the secrets of good health.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43728319</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43728319</guid>
+            <pubDate>Fri, 13 Apr 2018 23:53:02 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/1821C/production/_100844889_humanbehind16_9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why do people enjoy taking part in chilli-eating contests?]]></title>
+            <description><![CDATA[Chilli-eating competitions are proving popular in the UK, despite potential risks.]]></description>
+            <link>http://www.bbc.co.uk/news/newsbeat-43709955</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/newsbeat-43709955</guid>
+            <pubDate>Tue, 10 Apr 2018 15:08:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/592C/production/_100782822_gettyimages-545002966.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The doctor who really feels his patients' pain]]></title>
+            <description><![CDATA[For Dr Joel Salinas, music creates colours, numbers have personalities and another person's pain feels almost like his own.]]></description>
+            <link>http://www.bbc.co.uk/news/stories-43572639</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/stories-43572639</guid>
+            <pubDate>Tue, 03 Apr 2018 23:41:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9CF2/production/_100687104_bbc_stories_976x549_yellow_.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Amsterdam is reducing child obesity]]></title>
+            <description><![CDATA[Rising rates of childhood obesity are a global problem - but in Amsterdam they are falling.]]></description>
+            <link>http://www.bbc.co.uk/news/health-43113760</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-43113760</guid>
+            <pubDate>Mon, 02 Apr 2018 08:45:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18054/production/_100088389_exercisetyrell.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Check the key targets in your area]]></title>
+            <description><![CDATA[Use our tracker to check whether your local services are meeting strict waiting-time targets for cancer, routine operations and A&E.]]></description>
+            <link>http://www.bbc.co.uk/news/health-41483322</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-41483322</guid>
+            <pubDate>Thu, 12 Apr 2018 13:54:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/90A2/production/_98362073_new_nhs_tracker.png"/>
+        </item>
+        <item>
+            <title><![CDATA['I spent savings rather than wait']]></title>
+            <description><![CDATA[Patients facing long waits for treatment tell the BBC what it is like to be left in limbo.]]></description>
+            <link>http://www.bbc.co.uk/news/health-41595555</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-41595555</guid>
+            <pubDate>Tue, 17 Oct 2017 23:03:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1293F/production/_98359067_moon.jpg"/>
+        </item>
+    </channel>
+</rss>

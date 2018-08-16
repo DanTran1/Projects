@@ -1,0 +1,7 @@
+- open the .pde file and click run
+- press any keys between 1 and 5
+- key 1 will implement a grayscale
+- key 2 will implement a contrast filter
+- key 3 will implement a blur filter
+- key 4 will implement a edge detection filter
+- key 5 will implement a red filter
